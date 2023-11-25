@@ -1,0 +1,1 @@
+When you want to run generative_search.ipynb in Google Colab, you should do: Runtime->Change runtime type->T4 GPU
