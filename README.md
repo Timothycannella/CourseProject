@@ -36,15 +36,6 @@ Our project, "Generative Search," leverages Retrieval Augmented Generation (RAG)
 ### 4. Reporting:
    - Development of a comprehensive final report detailing project methods, results, and recommendations.
 
-## Progress Overview
-
-- **Completed Tasks:**
-  - Data collection, system design, and initial development phases.
-  - Successful completion of quantitative and qualitative evaluations.
-  - Finalization of the comprehensive project report.
-- **Current Focus:**
-  - The project has now reached completion with all major tasks concluded.
-
 ## Repository Structure
 
 - `build_vectors.ipynb`: Python notebook for converting questions to embedded vectors.
