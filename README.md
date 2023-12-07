@@ -40,7 +40,7 @@ Our project, "Generative Search," leverages Retrieval Augmented Generation (RAG)
 
 Click on the image below to watch our final presentation on YouTube:
 
-[![Generative Search System Project Presentation](http://img.youtube.com/vi/BhN-HeQ-ncs/0.jpg)](http://www.youtube.com/watch?v=BhN-HeQ-ncs)
+[![Generative Search System Project Presentation](https://img.youtube.com/vi/BhN-HeQ-ncs/hqdefault.jpg)](https://www.youtube.com/watch?v=BhN-HeQ-ncs)
 
 ## Repository Structure
 
