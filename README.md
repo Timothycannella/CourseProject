@@ -36,6 +36,12 @@ Our project, "Generative Search," leverages Retrieval Augmented Generation (RAG)
 ### 4. Reporting:
    - Development of a comprehensive final report detailing project methods, results, and recommendations.
 
+## Final Presentation Video
+
+Click on the image below to watch our final presentation on YouTube:
+
+[![Generative Search System Project Presentation](http://img.youtube.com/vi/BhN-HeQ-ncs/0.jpg)](http://www.youtube.com/watch?v=BhN-HeQ-ncs)
+
 ## Repository Structure
 
 - `build_vectors.ipynb`: Python notebook for converting questions to embedded vectors.
@@ -45,9 +51,16 @@ Our project, "Generative Search," leverages Retrieval Augmented Generation (RAG)
 - `Quantitative_Evaluation.csv`: Results of the quantitative evaluation.
 - `TIS_Q&A.csv`, `TIS_Embedded_Q&A.csv`: Datasets used for the project.
 - `TIS_Transcript Scraping.txt`: Transcript data from the "CS 410 Text Information Systems" course.
-- `Final Project Report.pdf`: Comprehensive final report of the project.
+- `Final Project Report.pdf`: [Comprehensive final report of the project](https://github.com/tamimuiuc/CourseProject/blob/main/Final%20Project%20Report.pdf).
 
 **Note:** To run `generative_search.ipynb` in Google Colab, select: Runtime -> Change runtime type -> T4 GPU.
+
+## Additional Resources
+
+- [Project Progress Report](https://github.com/tamimuiuc/CourseProject/blob/main/Project%20Progress%20Report.pdf)
+- [Team Project Proposal](https://github.com/tamimuiuc/CourseProject/blob/main/Team%20Project%20Proposal.pdf)
+- [Project Code](https://github.com/tamimuiuc/CourseProject/tree/main/codes)
+- [Project Data](https://github.com/tamimuiuc/CourseProject/tree/main/codes/data)
 
 ## Conclusion
 
